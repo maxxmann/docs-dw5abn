@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-w7x6m5.solvera.markets/sitemap.xml
